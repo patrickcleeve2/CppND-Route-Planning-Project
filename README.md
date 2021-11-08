@@ -1,5 +1,15 @@
 # Route Planning Project
 
+This repository contains a Route Planner for OpenStreetMap data. The planner uses an A* algorithm, and is written in C++. This project was completed as part of the Udacity C++ course.
+
+<img src="map3.png" widt="600" height="450" />
+
+The planner reads an OpenStreetMap File (.osm), and calculates the route along the road between two user defined coordinates. 
+
+For information on getting started, please see the udacity content below.
+
+# Udacity Content
+
 This repo contains the starter code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
